@@ -7,6 +7,14 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
+// https://androidraja.blogspot.tw/2017/04/android-1.html
+// http://blog.tonycube.com/2012/10/alarmnotification.html
+
+// http://www.androhub.com/android-alarmmanager/
+// https://google-developer-training.gitbooks.io/android-developer-fundamentals-course-practicals/content/en/Unit%203/82_p_alarm_manager.html
+// https://javapapers.com/android/android-alarm-clock-tutorial/
+
+
 public class MainActivity extends AppCompatActivity
 {
     TextView    tvMsgBox;
